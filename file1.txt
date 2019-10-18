@@ -1,2 +1,10 @@
 cscc
 scscf
+
+class my{
+
+int i;
+public:
+my(){}
+
+};
