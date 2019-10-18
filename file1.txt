@@ -8,3 +8,8 @@ public:
 my(){}
 
 };
+int main()
+{
+
+return 0;
+}
